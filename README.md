@@ -1,1 +1,1 @@
-# parallax-scrolling-reactjs
+## Desenvolvido com ReactJS + Styled Components
