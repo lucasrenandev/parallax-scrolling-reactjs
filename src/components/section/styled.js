@@ -68,7 +68,7 @@ export const Box4 = styled.div`
     background-position: center;
     background-size: cover;
 `
-export const Text = styled.text`
+export const Text = styled.p`
     color: #fff;
     position: absolute;
     bottom: 22px;
